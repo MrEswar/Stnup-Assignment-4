@@ -1,7 +1,8 @@
-.body {
-    background-color: #FBEEAC;
-}
 
+.border {
+    color: blue;
+    font-size: 50px;
+}
 .center {
     color: red;
     font-size: 30px;
@@ -10,37 +11,52 @@
 
 .none {
     border: none;
-    
+    background-color: chartreuse;
 }
 
 .dotted {
     border: dotted;
+    border-color: blueviolet;
+    background-color: coral;
 }
 
 .dashed {
     border: dashed;
+    border-color: black;
+    background-color: cornflowerblue;
 }
 
 .solid {
     border: solid;
+    border-color: darkorange;
+    background-color: darkseagreen;
 }
 
 .double {
     border: double;
+    border-color: blue;
+    background-color: bisque;
 }
 
 .groove {
     border: groove;
+    border-color: coral;
+    background-color: fuchsia;
 }
 
 .ridge {
     border: ridge;
+    border-color: darkred;
+    background-color: khaki;
 }
 
 .inset {
     border: inset;
+    border-color: mediumpurple;
+    background-color: cornsilk;
 }
 
 .outset {
     border: outset;
+    background-color: salmon;
 }
